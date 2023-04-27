@@ -4,4 +4,4 @@ I created a little project, the name QR Code, it is just a containter witch incl
 
 
 
-Live URL   https://valeri-css.github.io/QR-Code/
+Live URL  https://valeri-css.github.io/QR-Code-1/
